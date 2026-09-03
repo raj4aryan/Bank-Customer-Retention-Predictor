@@ -1,0 +1,4 @@
+artifacts
+bankvenv
+logs
+.env
